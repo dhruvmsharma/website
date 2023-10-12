@@ -255,9 +255,9 @@ body{
     
   }
 
-  @media only screen and (max-width: 414px){
+  @media only screen and (max-width: 415px){
     .minibox1 p{
-        font-size: 12px;
+        font-size: 13px;
     }
 
     .minibox1 h1{
@@ -269,7 +269,7 @@ body{
     }
 
     .minibox4 p{
-        font-size: 12px;
+        font-size: 13px;
     }
   }
 
